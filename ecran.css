@@ -1,0 +1,11 @@
+html { 
+  background-color: #E0E0E0;
+  font-family: Helvetica, sans-serif;
+ }
+
+body { 
+  background-color: #f6fcea;
+  max-width: 60em;
+  margin: 2em auto;
+}
+
